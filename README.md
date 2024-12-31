@@ -83,13 +83,6 @@ python3 bot.py
 </p>
 </details>
 
-<h3>「 ᴄʀᴇᴅɪᴛs 」
-</h3>
-
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://t.me/codeflix_bots) </b>
-- <b>[sᴜʙᴀʀᴜ](https://github.com/erotixe)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/sewxiy) </b>
- 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴅᴀɪsʏ ᴀɪ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
 ## 📌  𝑵𝒐𝒕𝒆
 
