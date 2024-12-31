@@ -14,24 +14,24 @@ APP_ID = int(os.environ.get("APP_ID", "14116510"))
 API_HASH = os.environ.get("API_HASH", "d805db972207dbabf9f6b6c65f5d9d3b")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002270308359"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001995978690"))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "Riya_ikada")
+OWNER = os.environ.get("OWNER", "Spidey_Professor")
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "6691691431"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "982105601"))
 
 #Port
 PORT = os.environ.get("PORT", "8030")
 
 #Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://moviesuniverse:moviesu2@cluster0.ncowqhk.mongodb.net/?retryWrites=true&w=majority")
-DB_NAME = os.environ.get("DATABASE_NAME", "moviesu2")
+DB_URI = os.environ.get("DATABASE_URL", ""mongodb+srv://arunready160:arun8899@cluster0.38pp4.mongodb.net")
+DB_NAME = os.environ.get("DATABASE_NAME", "arunready160")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001654996929"))
-FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1002338396639"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001640099591"))
+FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1001939094435"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -59,7 +59,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "🚫Pʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴅɪʀᴇᴄᴛʟʏ ɪ ᴀᴍ ᴏɴʟʏ ᴡᴏʀᴋ ꜰᴏʀ​ - @Moviesu2"
+USER_REPLY_TEXT = "🚫Pʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴅɪʀᴇᴄᴛʟʏ ɪ ᴀᴍ ᴏɴʟʏ ᴡᴏʀᴋ ꜰᴏʀ​ - @TelexOriginals"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(6497757690)
